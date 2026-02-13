@@ -41,4 +41,4 @@ inc/
 # cpanfile.snapshot 
 
 .config
-
+.DS_Store
